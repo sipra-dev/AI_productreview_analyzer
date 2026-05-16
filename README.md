@@ -72,22 +72,7 @@ If review is negative:
 
 LangGraph manages the workflow routing automatically.
 
-🔀 LangGraph Workflow
-Review Input
-      ↓
-Sentiment Detection
-      ↓
- ┌───────────────┐
- │               │
-Positive      Negative
- │               │
-Thank You    Review Analysis
-Response          ↓
-             Tone Detection
-             Aspect Detection
-             Urgency Detection
-                    ↓
-          AI Support Response
+
 📊 Example Output
 Positive Review
 {
